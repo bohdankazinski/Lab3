@@ -1,0 +1,6 @@
+[
+  { "Title": "Кобзар", "Author": "Тарас Шевченко", "Genre": "Поезія", "Year": 1840, "Pages": 250, "Available": true },
+  { "Title": "Тіні забутих предків", "Author": "Михайло Коцюбинський", "Genre": "Роман", "Year": 1911, "Pages": 120, "Available": true },
+  { "Title": "Місто", "Author": "Валер'ян Підмогильний", "Genre": "Роман", "Year": 1928, "Pages": 300, "Available": false },
+  { "Title": "Пригоди Шерлока Холмса", "Author": "Артур Конан Дойл", "Genre": "Детектив", "Year": 1892, "Pages": 307, "Available": true }
+]
